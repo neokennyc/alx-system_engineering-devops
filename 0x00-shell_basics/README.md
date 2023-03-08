@@ -1,1 +1,1 @@
-4:Display current directory contents, including hidden files
+5: ls-lna meaning Display current directory contents
