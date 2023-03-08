@@ -1,1 +1,1 @@
-1:ls(Display the contents list of your current directory)
+4:Display current directory contents, including hidden files
