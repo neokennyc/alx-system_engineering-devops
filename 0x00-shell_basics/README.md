@@ -1,1 +1,1 @@
-I am completing ALX
+1:ls(Display the contents list of your current directory)
