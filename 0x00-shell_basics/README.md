@@ -1,1 +1,1 @@
-5: ls-lna meaning Display current directory contents
+6:mkdir /tmp/my_first_directory
